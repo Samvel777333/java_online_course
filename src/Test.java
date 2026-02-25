@@ -28,6 +28,7 @@ public class Test {
   int k = 95;
   System.out.println("k = " + k);
   System.out.println("k = " + k);
+  System.out.println("k = " + k);
 
 
  }
