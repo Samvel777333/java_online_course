@@ -27,7 +27,7 @@ public class Test {
   System.out.println(firstName +" " +lastName);
   int k = 95;
   System.out.println("k = " + k);
-
+  System.out.println("k = " + k);
 
 
  }
